@@ -1,6 +1,6 @@
 # Classify Song Genres from Audio Data
  
-This project is from DataCamp, it has step by step instructions of how classify song genres from audio data.
+This project is from DataCamp, it has step by step instructions of how to classify song genres from audio data.
 
 ## Project description
 
